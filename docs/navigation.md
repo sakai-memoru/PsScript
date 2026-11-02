@@ -3,8 +3,7 @@
 
 [TOP](README.md)
 
-[About](about.md)
+[About](About.md)
 
 
 [gimmick:themechooser](Choose theme)
-
